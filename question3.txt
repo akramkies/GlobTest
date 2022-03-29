@@ -1,0 +1,3 @@
+Concernant le temps que j'ai pris pour implémenter la fonction est de :
+  Lundi 28/03 ==> 2heures de travail.
+  Mardi 29/03 ==> ~1,5heures de travail.
